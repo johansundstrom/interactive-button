@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #252525;
+}
+
+button {
+  border: 0;
+  border-radius: 0.5rem;
+  background: #1fa3ec;
+  color: #faffff;
+  line-height: 2.4rem;
+  font-size: 1.4rem;
+  width: 100%;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0e70a4;
+}
+
+.container {
+  text-align: center;
+  display: inline-block;
+  color: #eaeaea;
+  min-width: 340px;
+}
+
+.state-block {
+  text-align: center;
+  font-weight: normal;
+  font-size: 62px
+}
